@@ -1,0 +1,2 @@
+# animeapp
+Aplikasi Jadwal Anime
